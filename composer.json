@@ -13,5 +13,10 @@
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DDelrio1986\\Superheroes\\":  "src/"
+        }
     }
 }
