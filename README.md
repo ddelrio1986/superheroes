@@ -41,12 +41,12 @@ Random superhero name.
 ## CLI Usage
 
 ```
-$ ./bin/superheroes.php
+$ ./bin/ddelrio1986-superheroes.php
 Spider-Ham
 ```
 
 ```
-$ ./bin/superheroes.php -a|--all
+$ ./bin/ddelrio1986-superheroes.php -a|--all
 3-D Man
 A-Bomb
 ...
