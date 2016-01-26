@@ -18,7 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "DDelrio1986\\Superheroes\\":  "src/"
+            "DDelrio1986\\Superheroes\\":  "src/",
+            "DDelrio1986\\SuperheroesTest\\": "tests/"
         }
     }
 }
