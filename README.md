@@ -8,6 +8,17 @@
 $ composer require ddelrio1986/superheroes
 ```
 
+## Usage
+
+```php
+use DDelrio1986\Superheroes\Superheroes;
+
+$superheroes = new Superheroes;
+
+$superheroes.random();
+//=> 'Spider-Ham'
+```
+
 ## License
 
 MIT © [Daniel Del Rio](http://github.com/ddelrio1986)
