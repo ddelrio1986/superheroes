@@ -2,6 +2,12 @@
 
 > Get superhero names
 
+## Install
+
+```
+$ composer require ddelrio1986/superheroes
+```
+
 ## License
 
 MIT © [Daniel Del Rio](http://github.com/ddelrio1986)
