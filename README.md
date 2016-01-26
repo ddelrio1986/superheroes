@@ -4,13 +4,13 @@
 
 Packagist: [ddelrio1986/superheroes](https://packagist.org/packages/ddelrio1986/superheroes)
 
-## Install
+## Installation
 
 ```
 $ composer require ddelrio1986/superheroes
 ```
 
-## Usage
+## Example Usage
 
 ```php
 use DDelrio1986\Superheroes\Superheroes;
@@ -20,7 +20,7 @@ $superheroes = new Superheroes;
 $superheroes->random();
 //=> 'Spider-Ham'
 ```
-## API
+## Quick API Reference
 
 ```php
 $superheroes->all
@@ -37,6 +37,12 @@ $superheroes->random()
 Type: `function`
 
 Random superhero name.
+
+## Running Unit Tests
+
+```
+phpunit
+```
 
 ## License
 
