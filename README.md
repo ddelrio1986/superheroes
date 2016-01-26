@@ -22,13 +22,17 @@ $superheroes->random();
 ```
 ## API
 
-### ->all
+```php
+$superheroes->all
+```
 
 Type: `array`
 
 Superhero names in alphabetical order.
 
-### ->random()
+```php
+$superheroes->random()
+```
 
 Type: `function`
 
