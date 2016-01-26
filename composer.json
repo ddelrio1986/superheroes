@@ -1,0 +1,12 @@
+{
+    "name": "ddelrio1986/superheroes",
+    "description": "Get superhero names",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Del Rio",
+            "email": "ddelrio1986@gmail.com"
+        }
+    ],
+    "require": {}
+}
