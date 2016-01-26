@@ -1,6 +1,7 @@
 {
     "name": "ddelrio1986/superheroes",
     "description": "Get superhero names",
+    "keywords": ["superheros", "marvel", "names"],
     "license": "MIT",
     "authors": [
         {
