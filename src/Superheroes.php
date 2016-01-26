@@ -36,4 +36,18 @@ class Superheroes
     {
         $this->all = require __DIR__ . '/../data/superheroes.php';
     }
+
+    /**
+     * Random
+     *
+     * Obtains a random superhero from the list.
+     *
+     * @return string A random superhero from the list.
+     */
+    public function random()
+    {
+
+        // Return a random entry from the superhero list.
+        return $this->all[mt_rand(0, count($this->all) - 1)];
+    }
 }
