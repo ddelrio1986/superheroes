@@ -15,9 +15,22 @@ use DDelrio1986\Superheroes\Superheroes;
 
 $superheroes = new Superheroes;
 
-$superheroes.random();
+$superheroes->random();
 //=> 'Spider-Ham'
 ```
+## API
+
+### ->all
+
+Type: `array`
+
+Superhero names in alphabetical order.
+
+### ->random()
+
+Type: `function`
+
+Random superhero name.
 
 ## License
 
