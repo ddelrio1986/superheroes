@@ -2,6 +2,8 @@
 
 > Get superhero names
 
+Packagist: [ddelrio1986/superheroes](https://packagist.org/packages/ddelrio1986/superheroes)
+
 ## Install
 
 ```
