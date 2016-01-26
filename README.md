@@ -38,6 +38,20 @@ Type: `function`
 
 Random superhero name.
 
+## CLI Usage
+
+```
+$ ./bin/superheroes.php
+Spider-Ham
+```
+
+```
+$ ./bin/superheroes.php -a|--all
+3-D Man
+A-Bomb
+...
+```
+
 ## Running Unit Tests
 
 ```
