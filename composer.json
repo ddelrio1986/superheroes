@@ -6,7 +6,8 @@
     "authors": [
         {
             "name": "Daniel Del Rio",
-            "email": "ddelrio1986@gmail.com"
+            "email": "ddelrio1986@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {},
